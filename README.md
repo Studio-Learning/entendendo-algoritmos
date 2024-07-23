@@ -43,5 +43,5 @@ Resumo e exercícios resolvidos em C/C++ do livro "Grokking Algorithms".
 
 ## GitHub do autor: 
 
-- [@egonSchiele](https://github.com/egonSchielee)
+- [egonSchiele](https://github.com/egonSchiele)
  
