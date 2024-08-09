@@ -2,7 +2,7 @@
 # Entendendo Algoritmos  
 ## Por Aditya Y. Bhargava
 
-Resumo e exercícios resolvidos em C/C++ do livro "Grokking Algorithms". 
+Resumos e exercícios resolvidos em C/C++ do livro "Grokking Algorithms". 
 
 
 
