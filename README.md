@@ -15,7 +15,7 @@ Resumo e exercícios resolvidos em C/C++ do livro "Grokking Algorithms".
 ## Capítulos:
 - [Capítulo 1: Introdução a Algoritmos](https://github.com/Studio-Learning/entendendo-algoritmos/tree/main/Capítulo%201)
 
-- [Capítulo 2: Ordenação por seleção]()
+- [Capítulo 2: Ordenação por seleção](https://github.com/Studio-Learning/entendendo-algoritmos/tree/main/Capítulo%202)
 
 - [Capítulo 3: Recursão]()
 
