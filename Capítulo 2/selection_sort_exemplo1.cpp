@@ -24,7 +24,7 @@ void selection_sort(int vet[], int tam){
 
 int main(){
 	int tamanho=5;
-	int vetor[5]={5,9,4,7,2}; 
+	int vetor[tamanho]={5,9,4,7,2}; 
 	
 	selection_sort(vetor,tamanho);
 	
